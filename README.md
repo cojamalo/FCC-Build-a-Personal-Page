@@ -2,7 +2,7 @@
 
 A working model is at http://codepen.io/cojamalo/pen/mAdAzO/
 
-This is my portfolio page developed for my FreeCodeCamp challenge and personal domain.
+This is my portfolio page developed for my freeCodeCamp challenge and personal domain.
 
 Developed using jQuery, Bootstrap, Google Fonts, and Font Awesome.
 
