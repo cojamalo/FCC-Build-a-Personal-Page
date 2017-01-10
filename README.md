@@ -1,5 +1,7 @@
 # FCC-Build-a-Personal-Page
 
+This is the repository for my completion of the freeCodeCamp "Build a Personal Portfolio Webpage" project. Formatted for mobile use.
+
 A working model is at http://codepen.io/cojamalo/pen/mAdAzO/
 
 This is my portfolio page developed for the freeCodeCamp Build a Personal Webpage project.
