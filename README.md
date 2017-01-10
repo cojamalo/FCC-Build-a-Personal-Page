@@ -1,4 +1,5 @@
 # FCC-Build-a-Personal-Page
+Completion Date: Sep 02, 2016
 
 This is the repository for my completion of the freeCodeCamp "Build a Personal Portfolio Webpage" project. Formatted for mobile use.
 
