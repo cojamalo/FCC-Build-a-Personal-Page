@@ -10,3 +10,5 @@ This is my portfolio page developed for the freeCodeCamp Build a Personal Webpag
 Developed using jQuery, Bootstrap, Google Fonts, and Font Awesome.
 
 Scrolling javascript credit goes to [George](http://codepen.io/georgemarts/)'s Pen [JdNKBL](http://codepen.io/georgemarts/pen/JdNKBL/).
+
+Project coded by Connor Lenio - released into the public domain for educational purposes in 2016. 
